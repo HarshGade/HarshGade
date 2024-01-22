@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshGade
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Wb Dev
+- 🌱 I’m currently learning Front-End Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Mail:- harsghsg28@gmail.com
 
